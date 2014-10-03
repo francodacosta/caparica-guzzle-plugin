@@ -72,4 +72,4 @@ services:
 
 ```
 
-and on your controller ```php $caparicaGuzzle = $this->get('caparica.guzzle'); ``` will give you access to Guzzle with the Caparica plugin configured
+and on your controller ``` $caparicaGuzzle = $this->get('caparica.guzzle'); ``` will give you access to Guzzle with the Caparica plugin configured
