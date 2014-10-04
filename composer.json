@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "francodacosta/caparica": "dev-1.0-dev",
+        "francodacosta/caparica": "*",
         "guzzle/guzzle": "*"
     },
 
